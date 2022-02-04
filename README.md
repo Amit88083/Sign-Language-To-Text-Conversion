@@ -6,6 +6,7 @@ american sign language.
 This project converts American sign language to text in realtime. It uses CNN to train the required models for prediction. 
 The dataset is custom made.
 
-Dataset:-
-    •	Train : https://drive.google.com/drive/folders/1PEOwt6pDEy2t21JvoYDwCPZFrv_Bocw1?usp=sharing
-    •	Test   :https://drive.google.com/drive/folders/1Xz0cDVuFoxVkhtjSJkL2wO93gR0cS5EV?usp=sharing
+dataset :
+
+train : https://drive.google.com/drive/u/1/folders/1-XTAjPPRPFeRqu3848z8dMXaolILWizn
+test : https://drive.google.com/drive/u/1/folders/18e1F1n1SWPF8lUF8pCKdUzSzKAbmSbVN
